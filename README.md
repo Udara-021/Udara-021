@@ -24,7 +24,7 @@
 
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][blog]
 <img align="left" alt="Bootstrap" height="32" width="32"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <br />
 <br />
@@ -33,7 +33,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Udara-021)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Udara-021.visitor-badge&left_text=Visitors)
 
-<img height="200em" align="center" alt="Udara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Udara-021&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="150em" align="center" alt="Udara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Udara-021&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 
 
 
