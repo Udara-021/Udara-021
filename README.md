@@ -46,9 +46,9 @@
 
 <br />
 <br />
----
+## 🏆 My Stats
 
-| <a href="https://github.com/Udara-021/Udara-021"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Udara-021&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Udara's github stats" /></a> | <a href="https://github.com/Udara-021/Udara-021"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udara-021&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Udara-021&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Udara's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udara-021&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 
 <br />
