@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Udara-021.visitor-badge&left_text=My%20Page%20Visitors)
 <!---
 Udara-021/Udara-021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes..
