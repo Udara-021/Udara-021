@@ -48,7 +48,7 @@
 <br />
 ## 🏆 My Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Udara-021&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Udara's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udara-021&layout=compact&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Udara-021&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Udara's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udara-021&layout=compact&theme=radical" /> |
 | ------------- | ------------- |
 
 <br />
