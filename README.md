@@ -48,27 +48,13 @@
 <br />
 <br />
 
-## 🤝 Connect with me:
-## 🏆 My Stats
+## 🏆 My Stats: 
 
 | <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Udara-021&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Udara's github stats" /> | <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udara-021&layout=compact&theme=radical" /> |
 | ------------- | ------------- |
 
 <br />
 <br/>
-
-
-<img height="150em" align="center" alt="Udara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Udara-021&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-
-
-
-<a href="https://github.com/Udara-021">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Udara-021&layout=compact&theme=radical" />
-</a>
-
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 <!---
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
