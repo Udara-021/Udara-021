@@ -1,6 +1,6 @@
 # Hello Hi !!!👀 I am [Udara] 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Udara-021.visitor-badge&left_text=Visitors)  
 
-###  |Computer App Programmer
+### Computer App Programmer |
 
 - 🔭 I’m currently working on .NET,.NET Core, Angular,  Azure ...
 - 🌱 I’m currently learning Redux,RxJS, NgRx, GraphQL ...
@@ -42,15 +42,18 @@
 <img align="left" alt=""height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt=""height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Azure"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="Firebase"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio/visual-studio.png" />
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br />
+---
+
+| <a href="https://github.com/Udara-021/Udara-021"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Udara-021&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Udara's github stats" /></a> | <a href="https://github.com/Udara-021/Udara-021"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udara-021&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br />
 <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Udara-021)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Udara-021.visitor-badge&left_text=Visitors)
 
 <img height="150em" align="center" alt="Udara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Udara-021&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 
