@@ -1,10 +1,22 @@
-# Hello Hi !!! I am [Udara] 👋 <img align="right" ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Udara-021.visitor-badge&left_text=Visitors)  />
+# Hello Hi !!!👀 I am [Udara] 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Udara-021.visitor-badge&left_text=Visitors)  
 
-- 👋 Hi, I’m @Udara-021
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+###  |Computer App Programmer
+
+- 🔭 I’m currently working on .NET,.NET Core, Angular,  Azure ...
+- 🌱 I’m currently learning Redux,RxJS, NgRx, GraphQL ...
+- 💬 Ask me about  ASP.NET Core, C#,JS,Angular ...
+- 💞️ How to reach me: [@Udara-021][twitter]
+- 
+## 🤝 Connect with me:
+
+[<img align="left" alt="udara | Facebook" src="https://img.shields.io/badge/Facebook?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="udara | Twitter" src="https://img.shields.io/badge/Twitter?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="udara | LinkedIn" src="https://img.shields.io/badge/LinkedIn?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="udara | Medium" src="https://img.shields.io/badge/Medium?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+
+<br />
+<br />
+<br/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Udara-021)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Udara-021.visitor-badge&left_text=Visitors)
